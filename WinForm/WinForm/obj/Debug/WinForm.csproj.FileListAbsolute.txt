@@ -1,0 +1,10 @@
+D:\Kuliah\Pemrog Lanjut\Biodata\WinForm\WinForm\bin\Debug\WinForm.exe.config
+D:\Kuliah\Pemrog Lanjut\Biodata\WinForm\WinForm\bin\Debug\WinForm.exe
+D:\Kuliah\Pemrog Lanjut\Biodata\WinForm\WinForm\bin\Debug\WinForm.pdb
+D:\Kuliah\Pemrog Lanjut\Biodata\WinForm\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+D:\Kuliah\Pemrog Lanjut\Biodata\WinForm\WinForm\obj\Debug\WinForm.ListView.resources
+D:\Kuliah\Pemrog Lanjut\Biodata\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+D:\Kuliah\Pemrog Lanjut\Biodata\WinForm\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+D:\Kuliah\Pemrog Lanjut\Biodata\WinForm\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+D:\Kuliah\Pemrog Lanjut\Biodata\WinForm\WinForm\obj\Debug\WinForm.exe
+D:\Kuliah\Pemrog Lanjut\Biodata\WinForm\WinForm\obj\Debug\WinForm.pdb
